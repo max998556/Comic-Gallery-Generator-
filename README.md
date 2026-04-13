@@ -37,3 +37,5 @@ MyComics/
 【輸出】
 生成 HTML 檔案在母資料夾路徑
 例：D:\MyComics\MyComics.html
+
+程式碼由AI產生我不會寫程式🙃
