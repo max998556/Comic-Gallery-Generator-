@@ -31,7 +31,9 @@ MyComics/
 - 懸浮工具列
 
 【輸入】
-輸入母資料夾完整路徑，例如：D:\\MyComics 
+輸入母資料夾完整路徑
+例：D:\\MyComics 
 
 【輸出】
 生成 HTML 檔案在母資料夾路徑
+例：D:\MyComics\MyComics.html
